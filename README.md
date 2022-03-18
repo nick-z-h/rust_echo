@@ -1,2 +1,2 @@
-# rust-echo
+# rust_echo
 Echo but in Rust
